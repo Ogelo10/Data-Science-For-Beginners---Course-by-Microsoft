@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ogelo10/Data-Science-For-Beginners---Course-by-Microsoft/HEAD)
+
+
 # Assignment: Data Science Scenarios
 
 In this first assignment, we ask you to think about some real-life process or problem in different problem domains, and how you can improve it using the Data Science process. Think about the following:
