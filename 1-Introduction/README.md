@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ogelo10/Data-Science-For-Beginners---Course-by-Microsoft/HEAD)
+
+
 # Introduction to Data Science
 
 ![data in action](images/data.jpg)
