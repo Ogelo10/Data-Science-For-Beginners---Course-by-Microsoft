@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ogelo10/Data-Science-For-Beginners---Course-by-Microsoft/HEAD)
+
+
 # Small Diabetes Study
 
 In this assignment, we will work with a small dataset of diabetes patients taken from [here](https://www4.stat.ncsu.edu/~boos/var.select/diabetes.html).
